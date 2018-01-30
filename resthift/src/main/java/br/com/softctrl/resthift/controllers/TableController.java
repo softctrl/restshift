@@ -74,7 +74,6 @@ public class TableController {
 
 	/**
 	 * 
-	 * @param table
 	 * @param query
 	 * @return
 	 */
